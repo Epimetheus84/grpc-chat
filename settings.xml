@@ -1,0 +1,14 @@
+<settings>
+  <profiles>
+    <profile>
+      <id>grpc</id>
+      <properties>
+        <grpcVersion>1.36.0</grpcVersion>
+      </properties>
+    </profile>
+  </profiles>
+
+  <activeProfiles>
+    <activeProfile>grpc</activeProfile>
+  </activeProfiles>
+</settings>
